@@ -1,4 +1,4 @@
-# GoogleLocalRecommenderSystem
+# Google Local Recommender System
 Recommends neighborhood in San Diego County by a user's past reviews using Pearson's Correlation Coefficient 
 
 
